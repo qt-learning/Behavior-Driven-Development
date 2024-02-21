@@ -1,6 +1,6 @@
 # Behavior-Driven-Development
 
-This is the repo for the Squish Data Driven Testing course on Qt Academy.
+This is the repo for the Squish Behavior-Driven-Development course on Qt Academy.
 
 ## Getting Started
 
